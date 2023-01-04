@@ -1,0 +1,163 @@
+body{
+    background-color: rgb(20, 20, 20);
+    font-family: 'Poppins';
+
+}
+
+.container{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#side-bar{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    border-radius: 30px;
+    padding: 20px;
+    max-height: auto;
+    margin-bottom: 20px;
+}
+
+#section-profile-pic{
+    text-align: center;
+}
+
+#name{
+    padding-top: 10px;  
+}
+
+#button{
+    text-align: center;
+}
+
+#contact-me{
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: rgb(212, 173, 0);
+    background-color: rgb(20, 20, 20);
+    border: 5px solid rgb(212, 173, 0);
+    font-weight: bolder;
+}
+
+#contact-me:hover{
+    color: rgb(20, 20, 20);
+    background-color: rgb(212, 173, 0);
+    border: 5px solid rgb(20, 20, 20);
+    font-weight: bolder;
+}
+
+#contact-me-list{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    margin-top: 10px;
+    border: 3px solid rgb(212, 173, 0);
+    border-radius: 10px;
+    background-color: rgb(20, 20, 20);
+}
+
+#list{
+    padding-top: 30px;
+    background-color: rgb(20, 20, 20);
+    border-radius: 10px;
+}
+
+#main-content{
+    background-color: rgb(32, 32, 32);
+    min-height: 250px;
+    color: white;
+    border-radius: 30px;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+
+#heading{
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 20px;
+    border: 5px solid rgb(212, 173, 0);
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 50px;
+    font-weight: bolder;
+    background: -webkit-linear-gradient( rgb(196, 182, 123), rgb(212, 173, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+    color: rgb(212, 173, 0);
+    font-weight: bolder;
+}
+
+#experience{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#exp-left{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#exp-right{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#work-experience{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#education{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#work-exp-left-top{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#work-exp-rigth-top{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#work-exp-left-bottom{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#work-exp-right-bottom{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#education-left{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#education-right{
+    background-color: rgb(20, 20, 20); 
+    border-radius: 30px;
+    padding: 30px;
+}
